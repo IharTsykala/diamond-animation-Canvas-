@@ -1,1 +1,1 @@
-[Animation-Player](https://IharTsykala.github.io/diamondAnimationCanvas)
+[diamondAnimationCanvas](https://IharTsykala.github.io/diamondAnimationCanvas)
