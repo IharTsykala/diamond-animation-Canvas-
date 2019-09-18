@@ -1,0 +1,27 @@
+{
+  "name": "animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "lint": "eslint js/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IharTsykala/diamondAnimationCanvas.git"
+  },
+  "author": "IharTsykala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IharTsykala/diamondAnimationCanvas/issues"
+  },
+  "homepage": "https://github.com/IharTsykala/diamondAnimationCanvas#readme",
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "eslint": "^6.4.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-loader": "^3.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "style-loader": "^1.0.0"
+  }
+}
